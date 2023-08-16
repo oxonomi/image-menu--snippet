@@ -1,2 +1,4 @@
 # image-menu--snippet
-mouse tracking image preview content menu
+Image preview preview dispalyed over contents menu tracking mouse position <br />
+Desktop only <br />
+https://oxonomi.github.io/image-menu--snippet/
